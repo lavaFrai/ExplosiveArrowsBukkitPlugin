@@ -1,0 +1,7 @@
+name: lavaTestPlugin
+main: ru.lavafrai.testLavaPlugin
+version: 1.0
+author: lava_frai
+prefix: LP
+depend:
+  - PlaceholderAPI
